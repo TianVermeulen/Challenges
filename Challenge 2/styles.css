@@ -1,0 +1,28 @@
+body {
+    background-color:purple;
+}
+h1{
+    background-color: red;
+}
+h2{
+    background-color:green
+}
+h3{
+    background-color: yellow;
+}
+h4{
+    background-color: orange;
+}
+h5{
+    background-color: blue;
+}
+.pcss p{
+    font-family:verdana;
+}
+.pcss1 p{
+    font-family:courier;
+}
+#bgimg div{
+    max-width: 100%;
+    opacity: o.5;
+}
